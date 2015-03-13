@@ -2,6 +2,24 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "Feedbunch",
+    "thumb": "feedbunch/thumb.png",
+    "desc": "A simple and elegant feed reader",
+    "url": "http://feedbunch.com",
+    "info": "https://github.com/amatriain/feedbunch/blob/master/README.md",
+    "src": "https://github.com/amatriain/feedbunch",
+    "submitter": "amatriain",
+    "submissionDate": "2015-03-13",
+    "tags": [
+      "Production",
+      "Feed aggregator",
+      "jQuery",
+      "Open Source",
+      "Tests Included",
+      "Bootstrap"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
